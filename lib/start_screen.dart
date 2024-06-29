@@ -11,6 +11,7 @@ class StartScreen extends StatelessWidget {
           Image.asset("quizz/quiz_image_2.png"),
           const Text("Aasasas"),
           const Text("asasa"),
+          const Text("asasaas"),
         ],
       ),
     );
