@@ -9,6 +9,7 @@ class StartScreen extends StatelessWidget {
       child: Column(
         children: [
           Image.asset("quizz/quiz_image_2.png"),
+          const Text("Aasasas"),
         ],
       ),
     );
